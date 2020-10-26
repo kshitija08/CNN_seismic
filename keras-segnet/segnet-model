@@ -1,0 +1,17 @@
+id=4835753374777344	—	Suffix	—	true	—	string	
+id=4891734246948864	—	Region	—	false	—	string	
+id=4902637122093056	—	Partner	—	false	—	string	
+id=5086931014647808	—	Block	—	false	—	string	
+id=5121041108041728	—	Operator	—	false	—	string	
+id=5170445781303296	—	OnshoreOffshore	—	false	—	string	
+id=5181493947138048	—	DeviationType	—	false	—	string	
+id=5683031538925568	—	Status	—	false	—	string	
+id=5922460799074304	—	Completion	—	false	—	string	
+id=5967165100392448	—	Country	—	false	—	string	
+id=6022980750540800	—	UWI	—	true	—	string	
+id=6196390659096576	—	Name	—	true	—	string	
+id=6214418113232896	—	DatumType	—	false	—	string	
+id=6228236700745728	—	Basin	—	false	—	string	
+id=6250661899403264	—	Terrain	—	false	—	string	
+id=6273460693106688	—	Class	—	false	—	string	
+id=6303458019770368	—	WellType	—	false	—	string
